@@ -1,0 +1,2 @@
+ERROR   2020-10-22 17:48:26,611 [main] log4j.Log4jex  - This is error
+INFO    2020-10-22 17:48:26,613 [main] log4j.Log4jex  - This is info message
